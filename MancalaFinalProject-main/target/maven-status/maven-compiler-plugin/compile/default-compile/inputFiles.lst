@@ -1,0 +1,12 @@
+C:\Chinni\Personal\MancalaFinalProject-main\src\main\java\com\games\mancala\service\GameServiceImpl.java
+C:\Chinni\Personal\MancalaFinalProject-main\src\main\java\com\games\mancala\controller\GameController.java
+C:\Chinni\Personal\MancalaFinalProject-main\src\main\java\com\games\mancala\dto\GameStatus.java
+C:\Chinni\Personal\MancalaFinalProject-main\src\main\java\com\games\mancala\repository\PitRepository.java
+C:\Chinni\Personal\MancalaFinalProject-main\src\main\java\com\games\mancala\exceptions\EmptyBoardException.java
+C:\Chinni\Personal\MancalaFinalProject-main\src\main\java\com\games\mancala\exceptions\InvalidRequestException.java
+C:\Chinni\Personal\MancalaFinalProject-main\src\main\java\com\games\mancala\entity\Player.java
+C:\Chinni\Personal\MancalaFinalProject-main\src\main\java\com\games\mancala\entity\Pit.java
+C:\Chinni\Personal\MancalaFinalProject-main\src\main\java\com\games\mancala\repository\PlayerRepository.java
+C:\Chinni\Personal\MancalaFinalProject-main\src\main\java\com\games\mancala\service\GameServiceConfig.java
+C:\Chinni\Personal\MancalaFinalProject-main\src\main\java\com\games\mancala\service\GameService.java
+C:\Chinni\Personal\MancalaFinalProject-main\src\main\java\com\games\mancala\MancalaApplication.java

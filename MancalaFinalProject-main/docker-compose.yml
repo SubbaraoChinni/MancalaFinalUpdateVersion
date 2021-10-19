@@ -1,0 +1,14 @@
+version: '2'
+services:
+  mancala-mongodb:
+    image: mongo:latest
+    container_name: "mancala-mongodb"
+    ports:
+      - 27017:27017
+  mancala-game:
+    image: mancala:latest 
+    container_name: "mancala-game"
+    restart: always
+    entrypoint: "java -Djava.security.egd=file:/dev/./urandom -jar /app.jar"
+    ports:
+      - 8080:8080

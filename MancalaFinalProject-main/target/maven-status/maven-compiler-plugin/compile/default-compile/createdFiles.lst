@@ -1,0 +1,12 @@
+com\games\mancala\repository\PitRepository.class
+com\games\mancala\entity\Player.class
+com\games\mancala\entity\Pit.class
+com\games\mancala\exceptions\InvalidRequestException.class
+com\games\mancala\repository\PlayerRepository.class
+com\games\mancala\service\GameService.class
+com\games\mancala\dto\GameStatus.class
+com\games\mancala\controller\GameController.class
+com\games\mancala\service\GameServiceImpl.class
+com\games\mancala\exceptions\EmptyBoardException.class
+com\games\mancala\main\MancalaApplication.class
+com\games\mancala\service\GameServiceConfig.class
